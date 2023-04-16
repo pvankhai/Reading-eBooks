@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable-v24/shape_button01.xml" value="0.101" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable-v24/shape_button02.xml" value="0.101" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_down_gray.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_download_white.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_edit_white.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_email_gray.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_favorite_border_white.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_favorite_white.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_lock_gray.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_logout_white.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_more_blac.xml" value="0.172" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/ic_pdf_add_white.xml" value="0.1" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/drawable/sahpe_button03.xml" value="0.1" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/layout/activity_category.xml" value="0.1" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.2171875" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/layout/activity_dashboarduser.xml" value="0.14814814814814814" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Demo_Luan_Van/APP-Ebook-demo/app/src/main/res/layout/activity_register.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

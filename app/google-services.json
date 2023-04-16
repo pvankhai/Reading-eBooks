@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525613118813",
+    "project_id": "reading-ebooks-app",
+    "storage_bucket": "reading-ebooks-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525613118813:android:a16015578972e1f36b24b4",
+        "android_client_info": {
+          "package_name": "com.example.app_ebook_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525613118813-ssb0k39q3ndih4nu30q5ahpd3pi8cja5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCw1Dc46jm093a-R5goS0W5g32M6cUFtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525613118813-ssb0k39q3ndih4nu30q5ahpd3pi8cja5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
